@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "3D Printed Accessories"
+    url: /pages/3dprinter
+  - title: "Illustrations"
+    url: /pages/illustrations
+  - title: "Project Gallery"
+    url: /pages/gallery
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
