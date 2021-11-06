@@ -112,10 +112,16 @@ author:
     - label: "Contact"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:miniwolkedesign@gmail.com"
-    - label: "Etsy"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/MiniWolkeDesign"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/miniwolkedesign"
+    - label: "Shop on Etsy"
       icon: "fas fa-fw fa-link"
       url: "https://www.etsy.com/shop/MiniWolkeDesign"
-    - label: "OpenSea"
+    - label: "Shop on OpenSea"
       icon: "fas fa-fw fa-link"
       url: "https://opensea.io/miniwolke"
     - label: "GitHub"
@@ -124,13 +130,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
 
 # Site Footer
 footer:
@@ -143,7 +142,7 @@ footer:
       url: "https://www.facebook.com/MiniWolkeDesign"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/miniwolkedesign/"
+      url: "https://www.instagram.com/miniwolkedesign"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:

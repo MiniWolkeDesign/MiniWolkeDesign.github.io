@@ -37,6 +37,13 @@ gallery_nature:
   - url: https://www.etsy.com/listing/998667983/hand-painted-blue-magpie-bird-necklace?ref=shop_home_recs_15&frs=1
     image_path: https://i.etsystatic.com/26916094/r/il/54570c/3005695536/il_794xN.3005695536_70kx.jpg
     alt: "Hand-painted blue magpie bird necklace"
+  - url: https://www.etsy.com/listing/939041858/edelweiss-earrings-studclip-on?ref=shop_home_recs_5&frs=1
+    image_path: https://i.etsystatic.com/26916094/r/il/1d58ad/2881564421/il_794xN.2881564421_rg22.jpg
+    alt: "Edelweiss earrings"
+gallery_storage:    
+  - url: https://www.etsy.com/listing/935438361/3d-printed-sliding-lid-case?ref=shop_home_recs_13&frs=1
+    image_path: https://i.etsystatic.com/26916094/r/il/4de2a7/2767503670/il_794xN.2767503670_fa4w.jpg
+    alt: "3D printed sliding lid case"    
 ---
 
 
@@ -44,3 +51,5 @@ gallery_nature:
 {% include gallery id="gallery_fest" layout="third" caption="Festival Collection" %}
 
 {% include gallery id="gallery_nature" layout="third" caption="Nature Collection" %}
+
+{% include gallery id="gallery_storage" layout="third" caption="Storage Collection" %}

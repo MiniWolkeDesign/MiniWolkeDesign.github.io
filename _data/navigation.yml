@@ -4,7 +4,9 @@ main:
     url: /pages/3dprinter
   - title: "Illustrations"
     url: /pages/illustrations
-  - title: "Project Gallery"
+  - title: "Knitting for Fun"
+    url: /pages/knitting
+  - title: "Maker Gallery"
     url: /pages/gallery
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
