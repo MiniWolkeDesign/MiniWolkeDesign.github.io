@@ -6,7 +6,7 @@ classes: wide
 header:
   image: /assets/images/teaser/fabrication.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
-last_modified_at: 2021-11-05
+last_modified_at: 2022-01-10
 toc: false
 gallery_fest:    
   - url: https://www.etsy.com/listing/1113262385/3d-printed-ribbon-earrings-studclip-on?ref=shop_home_recs_2&pro=1&frs=1
@@ -28,6 +28,15 @@ gallery_fest:
     image_path: https://i.etsystatic.com/26916094/r/il/38d5ac/2767440904/il_794xN.2767440904_bg6w.jpg
     alt: "Four seasons 3D printed earrings"
 gallery_nature:    
+  - url: https://www.etsy.com/listing/1142305866/camellia-tsubaki-flower-earrings?click_key=789e9a0339f848dbde07dd8fdddf2eeb7467c229%3A1142305866&click_sum=3fe459ec&ref=shop_home_active_1&frs=1
+    image_path: https://i.etsystatic.com/26916094/r/il/4f3486/3628992101/il_794xN.3628992101_oxf1.jpg
+    alt: "Camellia Tsubaki flower earrings "
+  - url: https://www.etsy.com/listing/1156254939/edelweiss-temari-ball-earrings?click_key=ffe2223d163bea5620a46546a37751495e4628ba%3A1156254939&click_sum=d932f87e&ref=shop_home_active_2&frs=1
+    image_path: https://i.etsystatic.com/26916094/r/il/95d055/3628975547/il_794xN.3628975547_jgq0.jpg
+    alt: "Edelweiss temari ball earrings"
+  - url: https://www.etsy.com/listing/1102191062/sunny-and-cloudy-earrings-hookstudclip?click_key=b942a38a6fefbf227c69ecee2058525424637b86%3A1102191062&click_sum=f5e4568c&ref=shop_home_active_10&frs=1
+    image_path: https://i.etsystatic.com/26916094/r/il/b2a990/3497979855/il_794xN.3497979855_t5tz.jpg
+    alt: "Sunny and cloudy earrings "
   - url: https://www.etsy.com/listing/935428929/sunny-and-stormy-cloud-earrings-studclip?ref=shop_home_recs_3&frs=1&sca=1
     image_path: https://i.etsystatic.com/26916094/r/il/da545c/2815163715/il_794xN.2815163715_9jqq.jpg
     alt: "Sunny and stormy cloud earrings"
