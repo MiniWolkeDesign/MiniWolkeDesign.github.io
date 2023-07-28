@@ -46,20 +46,20 @@ gallery_papercraft:
   - url: https://www.dropbox.com/s/nedc1eovhyumiwl/cat-01.jpg?raw=1
     image_path: https://www.dropbox.com/s/nedc1eovhyumiwl/cat-01.jpg?raw=1
     alt: "Cat"
-  - url: https://www.dropbox.com/scl/fi/o1uzh6g5l8123p0ocr8a4/aneurysm-01.jpg?rlkey=4q10n8pzgo455bkbz7qxvjjry&dl=0
-    image_path: https://www.dropbox.com/scl/fi/o1uzh6g5l8123p0ocr8a4/aneurysm-01.jpg?rlkey=4q10n8pzgo455bkbz7qxvjjry&dl=0
+  - url: https://www.dropbox.com/scl/fi/o1uzh6g5l8123p0ocr8a4/aneurysm-01.jpg?raw=1
+    image_path: https://www.dropbox.com/scl/fi/o1uzh6g5l8123p0ocr8a4/aneurysm-01.jpg?raw=1
     alt: "Aneurysm"
   - url: https://www.dropbox.com/scl/fi/h68lfo81zrnnlwh9pojxh/aneurysm-02.jpg?rlkey=pq5mx6uqo39zghdgdm4973ksy&dl=0
-    image_path: https://www.dropbox.com/scl/fi/h68lfo81zrnnlwh9pojxh/aneurysm-02.jpg?rlkey=pq5mx6uqo39zghdgdm4973ksy&dl=0
+    image_path: https://www.dropbox.com/scl/fi/h68lfo81zrnnlwh9pojxh/aneurysm-02.jpg?raw=1
     alt: "Aneurysm"
   - url: https://www.dropbox.com/scl/fi/sxdnn4q1e0ai01yqtvxgk/anatomy-01.jpg?rlkey=9rl53rgsxkpxh449b5tajlnmp&dl=0
-    image_path: https://www.dropbox.com/scl/fi/sxdnn4q1e0ai01yqtvxgk/anatomy-01.jpg?rlkey=9rl53rgsxkpxh449b5tajlnmp&dl=0
+    image_path: https://www.dropbox.com/scl/fi/sxdnn4q1e0ai01yqtvxgk/anatomy-01.jpg?raw=1
     alt: "Anatomy"
-  - url: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?rlkey=x9ovsytq6hhm5kvrg3d92124v&dl=0
-    image_path: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?rlkey=x9ovsytq6hhm5kvrg3d92124v&dl=0
+  - url: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?raw=1
+    image_path: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?raw=1
     alt: "Anatomy"
-  - url: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?rlkey=ft0u6renjj4on4b9liimn5frc&dl=0
-    image_path: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?rlkey=ft0u6renjj4on4b9liimn5frc&dl=0
+  - url: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?raw=1
+    image_path: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?raw=1
     alt: "Anatomy"
 gallery_puzzle:
   - url: https://www.dropbox.com/s/2mcti8qm9kgpf3z/puzzle-01.jpg?raw=1
