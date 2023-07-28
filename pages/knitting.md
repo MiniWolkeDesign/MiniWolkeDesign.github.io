@@ -1,12 +1,12 @@
 ---
 # permalink: /about/
 layout: single
-title: "Knitting for Fun"
+title: "Knitting and Punch Needle for Fun"
 classes: wide
 header:
   image: /assets/images/teaser/illustration.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
-last_modified_at: 2021-11-05
+last_modified_at: 2023-07-28
 toc: false
 gallery_animal:
   - url: https://www.dropbox.com/s/zgsn5zf8zlzhuz7/bird-01.jpg?raw=1
@@ -35,6 +35,16 @@ gallery_warm:
   - url: https://www.dropbox.com/s/s6a39t56193a6cn/hat-01.jpg?raw=1
     image_path: https://www.dropbox.com/s/s6a39t56193a6cn/hat-01.jpg?raw=1
     alt: "Hat"
+  - url: https://www.dropbox.com/scl/fi/is18hlowbvgde0tatojfw/bunnyhat.jpg?rlkey=wf99gb4n5my4n8letsb2grgeu&dl=0
+    image_path: https://www.dropbox.com/scl/fi/is18hlowbvgde0tatojfw/bunnyhat.jpg?rlkey=wf99gb4n5my4n8letsb2grgeu&dl=0
+    alt: "Bunny Hat"
+gallery_punchneedle:
+  - url: https://www.dropbox.com/scl/fi/gfsizd75hoz24aij5dxip/pacman-01.jpg?rlkey=nlsyx4h4bprnm8h9t1619euah&dl=0
+    image_path: https://www.dropbox.com/scl/fi/gfsizd75hoz24aij5dxip/pacman-01.jpg?rlkey=nlsyx4h4bprnm8h9t1619euah&dl=0
+    alt: "PacMan"
+  - url: https://www.dropbox.com/scl/fi/ak4vlhncpm4xoq0cuy90q/pacman-02.jpg?rlkey=cb0if5hwmdjy62whhhpbruyhx&dl=0
+    image_path: https://www.dropbox.com/scl/fi/ak4vlhncpm4xoq0cuy90q/pacman-02.jpg?rlkey=cb0if5hwmdjy62whhhpbruyhx&dl=0
+    alt: "PacMan"
 ---
 
 
@@ -44,3 +54,5 @@ gallery_warm:
 {% include gallery id="gallery_flower" layout="third" caption="Flower Collection" %}
 
 {% include gallery id="gallery_warm" layout="third" caption="Warm Collection" %}
+
+{% include gallery id="gallery_punchneedle" layout="third" caption="Punch Needle" %}
