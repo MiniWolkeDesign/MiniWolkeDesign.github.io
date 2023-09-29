@@ -2,6 +2,8 @@
 main:
   - title: "3D Printed Accessories"
     url: /pages/3dprinter
+  - title: "Jewelry"
+    url: /pages/jewelry
   - title: "Illustrations"
     url: /pages/illustrations
   - title: "Knitting for Fun"
