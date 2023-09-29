@@ -4,7 +4,7 @@ layout: single
 title: "3D Printed Accessories"
 classes: wide
 header:
-  image: /assets/images/teaser/fabrication.png
+  image: /assets/images/teaser/illustration.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
 last_modified_at: 2022-01-10
 toc: false

@@ -4,7 +4,7 @@ layout: single
 title: "Jewelry"
 classes: wide
 header:
-  image: /assets/images/teaser/fabrication.png
+  image: /assets/images/teaser/illustration.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
 last_modified_at: 2023-09-29
 toc: false
@@ -36,7 +36,7 @@ crystal_stone:
   - url: https://www.dropbox.com/scl/fi/xfd1x2yexd9iya7y3dfhr/onhand-03.jpg?rlkey=0j2yz9x2sdchutqsmtrjfwxjt&raw=1
     image_path: https://www.dropbox.com/scl/fi/xfd1x2yexd9iya7y3dfhr/onhand-03.jpg?rlkey=0j2yz9x2sdchutqsmtrjfwxjt&raw=1
    alt: "Onhand"
- ---
+---
 
 {% include gallery id="crystal_stone" layout="third" caption="Crystal & Stone" %}
 
