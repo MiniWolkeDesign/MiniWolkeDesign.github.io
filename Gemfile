@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
+gem "jekyll-theme-cayman"
 gem "kramdown-parser-gfm"
 gem "jekyll"
 gem "jekyll-paginate"

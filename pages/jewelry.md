@@ -26,8 +26,8 @@ crystal_stone:
     alt: "Rainbow Tourmaline"
   - url: https://www.dropbox.com/scl/fi/hpok6sannf2y8jct18oc3/onhand-01.jpg?rlkey=3a6z1ceb2zoymtjgqgxzyjpdg&raw=1
     image_path: https://www.dropbox.com/scl/fi/hpok6sannf2y8jct18oc3/onhand-01.jpg?rlkey=3a6z1ceb2zoymtjgqgxzyjpdg&raw=1
-   alt: "Onhand"
-   - url: https://www.dropbox.com/scl/fi/5ixz6pxn889bfiemsjr71/chrome_diopside-01.jpg?rlkey=vpgddi52sqgr74l9a41rcp41i&raw=1
+    alt: "Onhand"
+  - url: https://www.dropbox.com/scl/fi/5ixz6pxn889bfiemsjr71/chrome_diopside-01.jpg?rlkey=vpgddi52sqgr74l9a41rcp41i&raw=1
     image_path: https://www.dropbox.com/scl/fi/5ixz6pxn889bfiemsjr71/chrome_diopside-01.jpg?rlkey=vpgddi52sqgr74l9a41rcp41i&raw=1
     alt: "Chrome Diopside"
   - url: https://www.dropbox.com/scl/fi/u8ut9sp8367wnl4lwffp5/green_phantom_quartz-01.jpg?rlkey=zo68tluw062d913mntwau0sv8&raw=1
@@ -35,8 +35,9 @@ crystal_stone:
     alt: "Green Phantom Quartz"
   - url: https://www.dropbox.com/scl/fi/xfd1x2yexd9iya7y3dfhr/onhand-03.jpg?rlkey=0j2yz9x2sdchutqsmtrjfwxjt&raw=1
     image_path: https://www.dropbox.com/scl/fi/xfd1x2yexd9iya7y3dfhr/onhand-03.jpg?rlkey=0j2yz9x2sdchutqsmtrjfwxjt&raw=1
-   alt: "Onhand"
+    alt: "Onhand"
 ---
 
-{% include gallery id="crystal_stone" layout="third" caption="Crystal & Stone" %}
 
+
+{% include gallery id="crystal_stone" layout="third" caption="Crystal & Stone" %}
