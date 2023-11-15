@@ -36,6 +36,9 @@ gallery_fabrication:
   - url: https://www.dropbox.com/s/awo4rrc59x5j6hj/tokyo-metro-01.jpg?raw=1
     image_path: https://www.dropbox.com/s/awo4rrc59x5j6hj/tokyo-metro-01.jpg?raw=1
     alt: "Tokyo Metro"
+  - url: https://www.dropbox.com/scl/fi/anto5pejwipcufdsxl5nk/tableware-01.jpg?rlkey=8epgqunyafee4s3zcjydb3ue4&raw=1
+    image_path: https://www.dropbox.com/scl/fi/anto5pejwipcufdsxl5nk/tableware-01.jpg?rlkey=8epgqunyafee4s3zcjydb3ue4&raw=1
+    alt: "Tableware Storage"
 gallery_papercraft:
   - url: https://www.dropbox.com/s/xmc8zt3848vcu31/bara-01.jpg?raw=1
     image_path: https://www.dropbox.com/s/xmc8zt3848vcu31/bara-01.jpg?raw=1

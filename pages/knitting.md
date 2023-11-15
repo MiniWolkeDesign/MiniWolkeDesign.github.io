@@ -38,6 +38,9 @@ gallery_warm:
   - url: https://www.dropbox.com/scl/fi/is18hlowbvgde0tatojfw/bunnyhat.jpg?rlkey=wf99gb4n5my4n8letsb2grgeu&raw=1
     image_path: https://www.dropbox.com/scl/fi/is18hlowbvgde0tatojfw/bunnyhat.jpg?rlkey=wf99gb4n5my4n8letsb2grgeu&raw=1
     alt: "Bunny Hat"
+  - url: https://www.dropbox.com/scl/fi/2xqzl7kcfluvnrpnyjtf3/bunnyhat-02.jpg?rlkey=5xj6gqema4pp9z7ucy3mij1tu&raw=1
+    image_path: https://www.dropbox.com/scl/fi/2xqzl7kcfluvnrpnyjtf3/bunnyhat-02.jpg?rlkey=5xj6gqema4pp9z7ucy3mij1tu&raw=1
+    alt: "Bunny Hat Set with Scarf"
 gallery_punchneedle:
   - url: https://www.dropbox.com/scl/fi/gfsizd75hoz24aij5dxip/pacman-01.jpg?rlkey=nlsyx4h4bprnm8h9t1619euah&raw=1
     image_path: https://www.dropbox.com/scl/fi/gfsizd75hoz24aij5dxip/pacman-01.jpg?rlkey=nlsyx4h4bprnm8h9t1619euah&raw=1

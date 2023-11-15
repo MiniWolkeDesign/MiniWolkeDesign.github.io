@@ -36,6 +36,9 @@ crystal_stone:
   - url: https://www.dropbox.com/scl/fi/xfd1x2yexd9iya7y3dfhr/onhand-03.jpg?rlkey=0j2yz9x2sdchutqsmtrjfwxjt&raw=1
     image_path: https://www.dropbox.com/scl/fi/xfd1x2yexd9iya7y3dfhr/onhand-03.jpg?rlkey=0j2yz9x2sdchutqsmtrjfwxjt&raw=1
     alt: "Onhand"
+  - url: https://www.dropbox.com/scl/fi/901pdtt2b4v3jcwvhw260/lapis_lazuli-03.jpg?rlkey=nnkbgx9x10yl6bpn1xwszkgw7&raw=1
+    image_path: https://www.dropbox.com/scl/fi/901pdtt2b4v3jcwvhw260/lapis_lazuli-03.jpg?rlkey=nnkbgx9x10yl6bpn1xwszkgw7&raw=1
+    alt: "Lapis Lazuli Necklace"
 ---
 
 
