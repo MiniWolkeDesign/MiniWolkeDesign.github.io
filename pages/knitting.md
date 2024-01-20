@@ -6,7 +6,7 @@ classes: wide
 header:
   image: /assets/images/teaser/illustration.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
-last_modified_at: 2023-07-28
+last_modified_at: 2024-01-20
 toc: false
 gallery_animal:
   - url: https://www.dropbox.com/s/zgsn5zf8zlzhuz7/bird-01.jpg?raw=1
@@ -48,6 +48,12 @@ gallery_animal:
   - url: https://www.dropbox.com/scl/fi/6nqayrq4rchpg85uy6z5e/bear_bag.jpg?rlkey=hyixahwzo9pu2ky2bxhdr4aaf&raw=1
     image_path: https://www.dropbox.com/scl/fi/6nqayrq4rchpg85uy6z5e/bear_bag.jpg?rlkey=hyixahwzo9pu2ky2bxhdr4aaf&raw=1
     alt: "Bear_bag"
+
+gallery_doll:
+  - url: https://www.dropbox.com/scl/fi/a868fnpgvn6lsyqtguxso/sailormoon.jpg?rlkey=fn6xz2a1umrvbxn7b4nmmztg7&raw=1
+    image_path: https://www.dropbox.com/scl/fi/a868fnpgvn6lsyqtguxso/sailormoon.jpg?rlkey=fn6xz2a1umrvbxn7b4nmmztg7&raw=1
+    alt: "Sailormoon"
+
 gallery_vegetable:
   - url: https://www.dropbox.com/scl/fi/jahprjndq3f14psfp36r4/apple.jpg?rlkey=0jnxsnw10a4gdhl2mc6y91vbp&raw=1
     image_path: https://www.dropbox.com/scl/fi/jahprjndq3f14psfp36r4/apple.jpg?rlkey=0jnxsnw10a4gdhl2mc6y91vbp&raw=1
@@ -108,6 +114,9 @@ gallery_food:
   - url: https://www.dropbox.com/scl/fi/yba0wfrokxjwqr2xzg792/cake_bag.jpg?rlkey=xj7jgnwvm5hturpmui5cbsq7q&raw=1
     image_path: https://www.dropbox.com/scl/fi/yba0wfrokxjwqr2xzg792/cake_bag.jpg?rlkey=xj7jgnwvm5hturpmui5cbsq7q&raw=1
     alt: "Cake_bag"
+  - url: https://www.dropbox.com/scl/fi/0knsoy8zvm2woabef5n9m/coffee.jpg?rlkey=x3a6ny499dndpxkwstxh67wba&raw=1
+    image_path: https://www.dropbox.com/scl/fi/0knsoy8zvm2woabef5n9m/coffee.jpg?rlkey=x3a6ny499dndpxkwstxh67wba&raw=1
+    alt: "Coffee"
 
 gallery_flower:
   - url: https://www.dropbox.com/s/pqtwmajw4u5fess/flower.jpg?raw=1
@@ -145,9 +154,11 @@ gallery_punchneedle:
 
 {% include gallery id="gallery_animal" layout="third" caption="Animal Collection" %}
 
+{% include gallery id="gallery_doll" layout="third" caption="Doll Collection" %}
+
 {% include gallery id="gallery_vegetable" layout="third" caption="Vegetable and Fruit Collection" %}
 
-{% include gallery id="gallery_food" layout="third" caption="Food Collection" %}
+{% include gallery id="gallery_food" layout="third" caption="Food and Drink Collection" %}
 
 {% include gallery id="gallery_flower" layout="third" caption="Flower Collection" %}
 
