@@ -62,6 +62,9 @@ gallery_papercraft:
   - url: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?rlkey=x9ovsytq6hhm5kvrg3d92124v&raw=1
     image_path: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?rlkey=x9ovsytq6hhm5kvrg3d92124v&raw=1
     alt: "Anatomy"
+  - url: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?rlkey=ft0u6renjj4on4b9liimn5frc&st=1oxfyjpk&raw=1
+    image_path: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?rlkey=ft0u6renjj4on4b9liimn5frc&st=1oxfyjpk&raw=1
+    alt: "Anatomy"
   - url: https://www.dropbox.com/scl/fi/1nm2i6fxadfvn0sv62a96/card-01.jpg?rlkey=wyas7wuwdru6jk9jhmlmgx876&st=o2fz16w6&raw=1
     image_path: https://www.dropbox.com/scl/fi/1nm2i6fxadfvn0sv62a96/card-01.jpg?rlkey=wyas7wuwdru6jk9jhmlmgx876&st=o2fz16w6&raw=1
     alt: "Card German"
