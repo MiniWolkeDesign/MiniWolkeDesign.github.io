@@ -33,6 +33,11 @@ gallery_animal:
   - url: https://www.etsy.com/listing/1647719167/butterfly-crochet-charm-brooch-pin?click_key=b26dc0dcb300f0294d68d1e8cfc88d6e0122687f%3A1647719167&click_sum=28f1348a&ref=shop_home_active_2&frs=1
     image_path: https://www.dropbox.com/scl/fi/mtk95m53yv117cprka188/butterfly_decoration.jpg?rlkey=asxjxocu3mizmsvmv4h9yultx&raw=1
     alt: "Butterfly_ornament"    
+  - url: https://www.dropbox.com/scl/fi/tfsps5moev4oywle0lgb1/ladybug.jpg?rlkey=yaltauzdkkd6gm3le1ga9vw8s&st=ozljrzpf&raw=1
+    image_path: https://www.dropbox.com/scl/fi/tfsps5moev4oywle0lgb1/ladybug.jpg?rlkey=yaltauzdkkd6gm3le1ga9vw8s&st=ozljrzpf&raw=1
+    alt: "Ladybug"    
+
+gallery_bag:
   - url: https://www.etsy.com/listing/1631521992/100-cotton-crochet-animal-coin-purse?click_key=f953d0b9eb465c98331b257547eefa729fb53809%3A1631521992&click_sum=f90ca016&ref=shop_home_active_4&frs=1
     image_path: https://www.dropbox.com/scl/fi/3vy99wj93muwvamhkas2c/alpaka_purse.jpg?rlkey=1julqze7p60fxfjqhr40pva6y&raw=1
     alt: "Alpaka_purse"
@@ -48,6 +53,12 @@ gallery_animal:
   - url: https://www.dropbox.com/scl/fi/6nqayrq4rchpg85uy6z5e/bear_bag.jpg?rlkey=hyixahwzo9pu2ky2bxhdr4aaf&raw=1
     image_path: https://www.dropbox.com/scl/fi/6nqayrq4rchpg85uy6z5e/bear_bag.jpg?rlkey=hyixahwzo9pu2ky2bxhdr4aaf&raw=1
     alt: "Bear_bag"
+  - url: https://www.dropbox.com/scl/fi/xw5qcfqidiujev1wkp7xc/handbag-01.jpg?rlkey=57xcf3i4ulcxyxzlpqpj2bguy&st=guuoylrg&raw=1
+    image_path: https://www.dropbox.com/scl/fi/xw5qcfqidiujev1wkp7xc/handbag-01.jpg?rlkey=57xcf3i4ulcxyxzlpqpj2bguy&st=guuoylrg&raw=1
+    alt: "Handbag"
+  - url: https://www.dropbox.com/scl/fi/vyv9decyzajac0shsr0sz/hairpin.jpg?rlkey=uz5eec87e4zl8znve9adbjdca&st=vxj3my4m&raw=1
+    image_path: https://www.dropbox.com/scl/fi/vyv9decyzajac0shsr0sz/hairpin.jpg?rlkey=uz5eec87e4zl8znve9adbjdca&st=vxj3my4m&raw=1
+    alt: "Hairpin"
 
 gallery_doll:
   - url: https://www.dropbox.com/scl/fi/a868fnpgvn6lsyqtguxso/sailormoon.jpg?rlkey=fn6xz2a1umrvbxn7b4nmmztg7&raw=1
@@ -153,6 +164,8 @@ gallery_punchneedle:
 
 
 {% include gallery id="gallery_animal" layout="third" caption="Animal Collection" %}
+
+{% include gallery id="gallery_bag" layout="third" caption="Bag Collection" %}
 
 {% include gallery id="gallery_doll" layout="third" caption="Doll Collection" %}
 

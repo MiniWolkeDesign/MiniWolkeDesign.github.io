@@ -39,6 +39,7 @@ gallery_fabrication:
   - url: https://www.dropbox.com/scl/fi/anto5pejwipcufdsxl5nk/tableware-01.jpg?rlkey=8epgqunyafee4s3zcjydb3ue4&raw=1
     image_path: https://www.dropbox.com/scl/fi/anto5pejwipcufdsxl5nk/tableware-01.jpg?rlkey=8epgqunyafee4s3zcjydb3ue4&raw=1
     alt: "Tableware Storage"
+
 gallery_papercraft:
   - url: https://www.dropbox.com/s/xmc8zt3848vcu31/bara-01.jpg?raw=1
     image_path: https://www.dropbox.com/s/xmc8zt3848vcu31/bara-01.jpg?raw=1
@@ -61,9 +62,20 @@ gallery_papercraft:
   - url: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?rlkey=x9ovsytq6hhm5kvrg3d92124v&raw=1
     image_path: https://www.dropbox.com/scl/fi/bchytuvga32tuybimsehi/anatomy-02.jpg?rlkey=x9ovsytq6hhm5kvrg3d92124v&raw=1
     alt: "Anatomy"
-  - url: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?rlkey=ft0u6renjj4on4b9liimn5frc&raw=1
-    image_path: https://www.dropbox.com/scl/fi/lge3l7bo6uvcqj1rook3n/anatomy-03.jpg?rlkey=ft0u6renjj4on4b9liimn5frc&raw=1
-    alt: "Anatomy"
+  - url: https://www.dropbox.com/scl/fi/1nm2i6fxadfvn0sv62a96/card-01.jpg?rlkey=wyas7wuwdru6jk9jhmlmgx876&st=o2fz16w6&raw=1
+    image_path: https://www.dropbox.com/scl/fi/1nm2i6fxadfvn0sv62a96/card-01.jpg?rlkey=wyas7wuwdru6jk9jhmlmgx876&st=o2fz16w6&raw=1
+    alt: "Card German"
+  - url: https://www.dropbox.com/scl/fi/xtoflvbwjqmbzxjymmro6/card-03.jpg?rlkey=ys3uc6z1zplqh7onavbb9lp22&st=wkze1gol&raw=1
+    image_path: https://www.dropbox.com/scl/fi/xtoflvbwjqmbzxjymmro6/card-03.jpg?rlkey=ys3uc6z1zplqh7onavbb9lp22&st=wkze1gol&raw=1
+    alt: "Card German Close"
+  - url: https://www.dropbox.com/scl/fi/ts9rgxhwbr1e4qt10tmlw/card-02.jpg?rlkey=f9zyc868ncblqel0pf7y97wk5&st=o2td7rd9&raw=1
+    image_path: https://www.dropbox.com/scl/fi/ts9rgxhwbr1e4qt10tmlw/card-02.jpg?rlkey=f9zyc868ncblqel0pf7y97wk5&st=o2td7rd9&raw=1
+    alt: "Card Mandarin"
+  - url: https://www.dropbox.com/scl/fi/jaud7r3cddamsfor6na99/card-04.jpg?rlkey=88vrtbkxabtcbsi64hworoagz&st=vblkueq9&raw=1
+    image_path: https://www.dropbox.com/scl/fi/jaud7r3cddamsfor6na99/card-04.jpg?rlkey=88vrtbkxabtcbsi64hworoagz&st=vblkueq9&raw=1
+    alt: "Card Mandarin Close"
+
+
 gallery_puzzle:
   - url: https://www.dropbox.com/s/2mcti8qm9kgpf3z/puzzle-01.jpg?raw=1
     image_path: https://www.dropbox.com/s/2mcti8qm9kgpf3z/puzzle-01.jpg?raw=1
@@ -77,6 +89,15 @@ gallery_puzzle:
   - url: https://www.dropbox.com/s/gwgowg9i89yrtvy/train-01.jpg?raw=1
     image_path: https://www.dropbox.com/s/gwgowg9i89yrtvy/train-01.jpg?raw=1
     alt: "Train"
+
+gallery_education:
+  - url: https://www.dropbox.com/scl/fi/y83vw9ijrf6ln2jxxuc2a/sensory-01.jpg?rlkey=sp0if65pspkwbtbw7vndsdzc8&st=v89lol4l&raw=1
+    image_path: https://www.dropbox.com/scl/fi/y83vw9ijrf6ln2jxxuc2a/sensory-01.jpg?rlkey=sp0if65pspkwbtbw7vndsdzc8&st=v89lol4l&raw=1
+    alt: "Sensory board"
+  - url: https://www.dropbox.com/scl/fi/v0v4jk57peus37ix7lf9q/sensory-02.jpg?rlkey=mgkg6a875tzcs3uts8cad6lts&st=l5kh06hi&raw=1
+    image_path: https://www.dropbox.com/scl/fi/v0v4jk57peus37ix7lf9q/sensory-02.jpg?rlkey=mgkg6a875tzcs3uts8cad6lts&st=l5kh06hi&raw=1
+    alt: "Sensory board"
+
 ---
 
 {% include gallery id="gallery_fabrication" layout="third" caption="Fabrication Collection" %}
@@ -84,3 +105,5 @@ gallery_puzzle:
 {% include gallery id="gallery_papercraft" layout="third" caption="Papercraft Collection" %}
 
 {% include gallery id="gallery_puzzle" layout="third" caption="Puzzle Collection" %}
+
+{% include gallery id="gallery_education" layout="third" caption="Education Collection" %}
