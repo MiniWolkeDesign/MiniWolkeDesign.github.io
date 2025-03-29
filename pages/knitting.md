@@ -6,7 +6,7 @@ classes: wide
 header:
   image: /assets/images/teaser/illustration.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
-last_modified_at: 2024-01-20
+last_modified_at: 2025-03-29
 toc: false
 gallery_animal:
   - url: https://www.dropbox.com/s/zgsn5zf8zlzhuz7/bird-01.jpg?raw=1
@@ -36,6 +36,15 @@ gallery_animal:
   - url: https://www.dropbox.com/scl/fi/tfsps5moev4oywle0lgb1/ladybug.jpg?rlkey=yaltauzdkkd6gm3le1ga9vw8s&st=ozljrzpf&raw=1
     image_path: https://www.dropbox.com/scl/fi/tfsps5moev4oywle0lgb1/ladybug.jpg?rlkey=yaltauzdkkd6gm3le1ga9vw8s&st=ozljrzpf&raw=1
     alt: "Ladybug"    
+  - url: https://www.dropbox.com/scl/fi/yodfjmq9phvkps8kbnj04/pigs.jpg?rlkey=c7nzapp7uesg75qi41ck24ly9&raw=1
+    image_path: https://www.dropbox.com/scl/fi/yodfjmq9phvkps8kbnj04/pigs.jpg?rlkey=c7nzapp7uesg75qi41ck24ly9&raw=1
+    alt: "Three_little_pigs"    
+  - url: https://www.dropbox.com/scl/fi/zgz0vf233ih0ikzdai2wd/goldfish-01.jpg?rlkey=cw55vm6hlzr6e4jpv9d3ueob7&raw=1
+    image_path: https://www.dropbox.com/scl/fi/zgz0vf233ih0ikzdai2wd/goldfish-01.jpg?rlkey=cw55vm6hlzr6e4jpv9d3ueob7&raw=1
+    alt: "Goldfish"    
+  - url: https://www.dropbox.com/scl/fi/t25wl6uqbcqdiy4rywajx/goldfish-02.jpg?rlkey=qhdlmifs9ff6kahf3jycynuub&raw=1
+    image_path: https://www.dropbox.com/scl/fi/t25wl6uqbcqdiy4rywajx/goldfish-02.jpg?rlkey=qhdlmifs9ff6kahf3jycynuub&raw=1
+    alt: "Goldfish"    
 
 gallery_bag:
   - url: https://www.etsy.com/listing/1631521992/100-cotton-crochet-animal-coin-purse?click_key=f953d0b9eb465c98331b257547eefa729fb53809%3A1631521992&click_sum=f90ca016&ref=shop_home_active_4&frs=1
@@ -59,6 +68,24 @@ gallery_bag:
   - url: https://www.dropbox.com/scl/fi/vyv9decyzajac0shsr0sz/hairpin.jpg?rlkey=uz5eec87e4zl8znve9adbjdca&st=vxj3my4m&raw=1
     image_path: https://www.dropbox.com/scl/fi/vyv9decyzajac0shsr0sz/hairpin.jpg?rlkey=uz5eec87e4zl8znve9adbjdca&st=vxj3my4m&raw=1
     alt: "Hairpin"
+  - url: https://www.dropbox.com/scl/fi/dt52237jm2jlqciz7p8i6/hairpin-02.jpg?rlkey=vh9r2hdookqbq6gc04mlxbvcs&raw=1
+    image_path: https://www.dropbox.com/scl/fi/dt52237jm2jlqciz7p8i6/hairpin-02.jpg?rlkey=vh9r2hdookqbq6gc04mlxbvcs&raw=1
+    alt: "Hairpin_hat"
+  - url: https://www.dropbox.com/scl/fi/vxbsitrzg5dxvfch30dw1/hairpin-03.jpg?rlkey=x27b9e03p66974rzh9bl7ata6&raw=1
+    image_path: https://www.dropbox.com/scl/fi/vxbsitrzg5dxvfch30dw1/hairpin-03.jpg?rlkey=x27b9e03p66974rzh9bl7ata6&raw=1
+    alt: "Hairpin_hat"
+  - url: https://www.dropbox.com/scl/fi/uv990oatgtfxe1sv02ooq/hairpin-04.jpg?rlkey=8w3h61b3vozfqrrlfd7cqi3sk&raw=1
+    image_path: https://www.dropbox.com/scl/fi/uv990oatgtfxe1sv02ooq/hairpin-04.jpg?rlkey=8w3h61b3vozfqrrlfd7cqi3sk&raw=1
+    alt: "Hairpin_hat"
+  - url: https://www.dropbox.com/scl/fi/fuis0erts32pzga1w1chh/ball.jpg?rlkey=43vh4dbt128mcj4n43bb9xv1d&raw=1
+    image_path: https://www.dropbox.com/scl/fi/fuis0erts32pzga1w1chh/ball.jpg?rlkey=43vh4dbt128mcj4n43bb9xv1d&raw=1
+    alt: "Ball"
+  - url: https://www.dropbox.com/scl/fi/m1kemawhxlada53rp3kum/christmastree-01.jpg?rlkey=i8r612e4j0i3ogsfyh2bkymih&raw=1
+    image_path: https://www.dropbox.com/scl/fi/m1kemawhxlada53rp3kum/christmastree-01.jpg?rlkey=i8r612e4j0i3ogsfyh2bkymih&raw=1
+    alt: "Christmas_tree"
+  - url: https://www.dropbox.com/scl/fi/655vbsi7difavd2m7ibqw/christmastree-02.jpg?rlkey=fv2mk00m43k89fry11jnrp5s7&raw=1
+    image_path: https://www.dropbox.com/scl/fi/655vbsi7difavd2m7ibqw/christmastree-02.jpg?rlkey=fv2mk00m43k89fry11jnrp5s7&raw=1
+    alt: "Christmas_tree"
 
 gallery_doll:
   - url: https://www.dropbox.com/scl/fi/a868fnpgvn6lsyqtguxso/sailormoon.jpg?rlkey=fn6xz2a1umrvbxn7b4nmmztg7&raw=1
@@ -165,7 +192,7 @@ gallery_punchneedle:
 
 {% include gallery id="gallery_animal" layout="third" caption="Animal Collection" %}
 
-{% include gallery id="gallery_bag" layout="third" caption="Bag Collection" %}
+{% include gallery id="gallery_bag" layout="third" caption="Bag and accessory Collection" %}
 
 {% include gallery id="gallery_doll" layout="third" caption="Doll Collection" %}
 

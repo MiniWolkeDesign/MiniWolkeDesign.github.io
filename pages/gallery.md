@@ -100,6 +100,9 @@ gallery_education:
   - url: https://www.dropbox.com/scl/fi/v0v4jk57peus37ix7lf9q/sensory-02.jpg?rlkey=mgkg6a875tzcs3uts8cad6lts&st=l5kh06hi&raw=1
     image_path: https://www.dropbox.com/scl/fi/v0v4jk57peus37ix7lf9q/sensory-02.jpg?rlkey=mgkg6a875tzcs3uts8cad6lts&st=l5kh06hi&raw=1
     alt: "Sensory board"
+  - url: https://www.dropbox.com/scl/fi/hltuns27hg3wy32wywqnj/sensory-03.jpg?rlkey=8zg8fdlt38i29mo8ssyfyizhk&raw=1
+    image_path: https://www.dropbox.com/scl/fi/hltuns27hg3wy32wywqnj/sensory-03.jpg?rlkey=8zg8fdlt38i29mo8ssyfyizhk&raw=1
+    alt: "Sensory play"
 
 ---
 
