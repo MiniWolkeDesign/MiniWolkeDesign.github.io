@@ -3,6 +3,7 @@
 layout: single
 title: "Illustrations"
 classes: wide
+author_profile: true
 header:
   image: /assets/images/teaser/illustration.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
