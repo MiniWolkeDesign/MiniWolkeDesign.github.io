@@ -3,7 +3,6 @@ layout: single
 title: "MiniWolkeDesign"
 classes: wide
   - landing
-#  - dark-theme
 header:
   image: /assets/images/teaser/illustration.png
   caption: "Image credit: [**MiniWolke**](https://opensea.io/collection/clother)"
